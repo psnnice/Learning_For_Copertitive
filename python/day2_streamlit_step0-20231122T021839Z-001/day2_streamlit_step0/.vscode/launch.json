@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/niceo/OneDrive/Desktop/work/Dashboard_Tesa/day2_streamlit_step0-20231122T021839Z-001/day2_streamlit_step0/streamlit",
+      "program": "c:/Users/niceo/OneDrive/Desktop/work/Dashboard_Tesa/day2_streamlit_step0-20231122T021839Z-001/day2_streamlit_step0/streamlit/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

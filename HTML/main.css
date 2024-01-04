@@ -1,0 +1,15 @@
+aside{
+    float: left;
+}
+header{
+    text-align: center;
+}
+main{
+    padding: auto;
+}
+footer{
+    position: fixed;
+}
+body{
+    margin: 0%;
+}
